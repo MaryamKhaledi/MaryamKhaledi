@@ -17,20 +17,20 @@
  
 <div> 
   
-  <a href="https://www.instagram.com/https://www.instagram.com/_mkhaledi_//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
   <a href = "khaledi.maryam74@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/zeynab-yousefi-588009150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maryam-khaledi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/https://www.instagram.com/_mkhaledi_//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
  
 </div>
-I started programming Python in 2021 so I entered the world of programming; At the beginning of 2022, when I had acquired skills,and in the summer of that year, I became acquainted with the Bootkamp of maktab Sharif, and by participating in the Django course, I was able to develop my skills and talents.
+The sweet world of math introduced me to the fascinating world of programming, and I fell in love with programming. I am eager to learn new topics and technologies, and I also want to experience new challenges and opportunities to improve my abilities.
 
 
-
-Skills: Python - Django - Rest Full API - DRF - Net Work - HTML - CSS - Bootstrap 
+Skills: Python - Django - Docker - DRF - Net Work - HTML - CSS - Bootstrap 
 
 - 🔭 I’m currently working on  Maktab Sharif Coding Bootcamp 
 - 🌱 I’m currently learning Python - Django - Rest Full API 
