@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/MaryamKhaledi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeynabyousefi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynabyousefi&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryamKhaledi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +30,7 @@
 The sweet world of math introduced me to the fascinating world of programming, and I fell in love with programming. I am eager to learn new topics and technologies, and I also want to experience new challenges and opportunities to improve my abilities.
 
 
+  
 Skills: Python - Django - Docker - DRF - Net Work - HTML - CSS - Bootstrap 
 
 - 🔭 I’m currently working on  Maktab Sharif Coding Bootcamp 
